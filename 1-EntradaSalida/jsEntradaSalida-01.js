@@ -3,6 +3,6 @@ Al presionar el  botón,
 se debe mostrar un mensaje como el siguiente "Esto funciona de maravilla"*/
 function mostrar()
 {
-	alert("Hola Curso de ingreso 2021 intento cuatro mil");
+	alert("Hola Curso de ingreso 2021 intento cinco mil");
 }
 
